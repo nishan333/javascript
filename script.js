@@ -31,3 +31,9 @@ form.addEventListener('submit', (event) => {
 let conf=confirm("this is the official website of nishan regmi");
 let name=prompt("enter your name");
 let age=prompt("enter your age");
+if (age>=18)
+{
+  alert("welcome"$name);
+}
+else{
+  alert("sorry"&name)'}
