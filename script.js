@@ -28,3 +28,5 @@ form.addEventListener('submit', (event) => {
   // clear the form
   form.reset();
 });
+let conf=confirm("this is the official website of nishan regmi");
+let name=prompt("enter your name");
